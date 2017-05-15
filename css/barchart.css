@@ -1,0 +1,21 @@
+body
+{
+	background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+ 
+.legend {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size:15px;;
+    }
+.axis {
+  font: 10px sans-serif;
+  font-size: 10px;
+}
+
+.axis path,
+.axis line {
+  fill:none;
+  stroke: black;
+}

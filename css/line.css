@@ -1,0 +1,50 @@
+   body {
+     font: 15px sans-serif;
+     background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+
+
+   }
+
+   .line {
+
+     stroke-width: 2px;
+   }
+   path {
+
+     stroke-width: 2;
+     fill: none;
+   }
+
+   .axis path,
+   .axis line {
+     fill: none;
+     stroke: grey;  /*x and y axis line*/
+     stroke-width: 1.5;
+   }
+   #h1
+   {
+     text-align: left;
+     padding-left:200px;
+   }
+   #carbohydrateStyle
+   {
+     color:#e41a1c;
+     text-align:center;
+   }
+   #fatStyle
+   {
+     color:#377eb8;
+     text-align:center;
+   }
+   #proteinStyle
+   {
+     color:#4daf4a;
+     text-align:center;
+   }
+   h1
+   {
+    text-align: center;
+   }
+

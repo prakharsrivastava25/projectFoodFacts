@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme');
+@import url('https://fonts.googleapis.com/css?family=Sofia|Orbitron');
+#ss
+{
+	
+	
+	font-family: 'Sofia', sans-serif;font-size: 120%;
+	
+}
+#fpc
+{
+	
+	font-family: 'Sofia', sans-serif;font-size: 120%;
+}
+body
+{
+	background-image: url('https://image.freepik.com/free-vector/abstract-background-with-a-watercolor-texture_1048-2144.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+h1{
+	text-align: center;
+	font-family: 'BioRhyme', serif;
+	text-decoration: underline;
+}
+#fullBlock
+{
+	padding-left: 20%;
+}
